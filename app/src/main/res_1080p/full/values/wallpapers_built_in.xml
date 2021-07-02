@@ -26,6 +26,7 @@
         <item>@drawable/space_riseup</item>
         <item>@drawable/urban_dayroad</item>
         <item>@drawable/urban_nightroad</item>
+        <item>@drawable/deep_space</item>
     </array>
 
     <string-array name="wallpaper_built_in_names">
